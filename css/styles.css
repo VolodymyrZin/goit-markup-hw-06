@@ -64,10 +64,12 @@ padding: 96px 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 149px;
+  /* gap: 149px; */
+  width: 100%;
 }
 .navigation-ul {
   display: none;
+  width: 100%;
 }
 nav a {
   display: block;
